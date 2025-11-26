@@ -1,9 +1,9 @@
 # API de Cinestar – Node.js
 
-Esta API fue desarrollada en **Node.js con Express** para proporcionar los datos necesarios al proyecto web que replica parte del sitio **Cinestar**.  
+Esta API fue desarrollada en **Node.js ** para proporcionar los datos necesarios al proyecto web que replica parte del sitio **Cinestar**.  
 Su finalidad es ofrecer información de cines y películas a través de endpoints simples y organizados.
 
-## 🚀 Características
+## Características
 
 La API incluye **4 endpoints GET**, los cuales permiten obtener:
 
@@ -19,5 +19,4 @@ Cada ruta devuelve los datos en formato JSON.
 - Node.js
 - Express
 - MySQL (Base de datos)
-- CORS
 - ES Modules
