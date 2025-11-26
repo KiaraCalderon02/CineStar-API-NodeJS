@@ -14,7 +14,7 @@ La API incluye **4 endpoints GET**, los cuales permiten obtener:
 
 Cada ruta devuelve los datos en formato JSON.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Node.js
 - Express
